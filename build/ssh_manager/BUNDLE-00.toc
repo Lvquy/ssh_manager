@@ -1,0 +1,3 @@
+([('ssh_manager',
+   '/Users/lvquy/Downloads/ssh/ssh_manager/dist/ssh_manager',
+   'EXECUTABLE')],)

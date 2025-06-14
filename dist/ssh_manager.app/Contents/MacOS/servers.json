@@ -1,0 +1,32 @@
+{
+    "Khách hàng": {
+        "ip": "34.142.132.55",
+        "username": "quyseo.ictu",
+        "pem": "/Users/lvquy/.ssh/id_rsa",
+        "password": "1"
+    },
+    "Rostek": {
+        "ip": "35.240.202.71",
+        "username": "rostek",
+        "pem": "/Users/lvquy/ssh/rostek",
+        "password": ""
+    },
+    "Thành Long": {
+        "ip": "103.186.149.166",
+        "username": "root",
+        "pem": "",
+        "password": "Txm6hVy~5^"
+    },
+    "VAA  - TP  - Thành": {
+        "ip": "45.118.146.166",
+        "username": "root",
+        "pem": "",
+        "password": "Ta....@91"
+    },
+    "1": {
+        "ip": "9",
+        "username": "9",
+        "pem": "9",
+        "password": ""
+    }
+}

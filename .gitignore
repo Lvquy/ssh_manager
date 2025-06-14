@@ -1,0 +1,16 @@
+# Bỏ qua thư mục build và dist của PyInstaller
+build/
+dist/
+
+# Bỏ qua file .spec của PyInstaller
+*.spec
+
+# Bỏ qua các file tạm
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Bỏ qua tệp cấu hình tạm thời hoặc dữ liệu
+*.log
+*.tmp
