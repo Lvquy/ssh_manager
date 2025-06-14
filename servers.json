@@ -1,8 +1,14 @@
 {
-    "Khách hàng111": {
-        "ip": "34.142.132.55",
-        "username": "quyseo.ictu",
-        "pem": "/Users/lvquy/.ssh/id_rsa",
-        "password": "1"
+    "Server 1": {
+        "ip": "192.168.1.1",
+        "username": "root",
+        "pem": "/Users/admin/key.pem",
+        "password": ""
+    },
+    "Server 2": {
+        "ip": "192.168.1.2",
+        "username": "admin",
+        "pem": "/Users/lvquy/keypem",
+        "password": "123"
     }
 }
