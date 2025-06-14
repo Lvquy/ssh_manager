@@ -4,6 +4,7 @@ dist/
 
 # Bỏ qua file .spec của PyInstaller
 *.spec
+.DS_Store
 
 # Bỏ qua các file tạm
 __pycache__/
