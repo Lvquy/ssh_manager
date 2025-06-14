@@ -17,6 +17,7 @@ APP_DIR = get_app_dir()
 CONFIG_PATH = os.path.join(APP_DIR, "servers.json")
 SERVERS = {}
 CURRENT_SERVER = None
+FIXED_PASSWORD = '1'
 
 # --------------------- Tải & lưu dữ liệu ---------------------
 def load_servers():
@@ -316,7 +317,7 @@ password_entry.pack(padx=10, pady=10)
 password_entry.focus_set()
 
 def check_password():
-    if password_entry.get() == "1":
+    if password_entry.get() == FIXED_PASSWORD:
         show_main_app()
     else:
         messagebox.showerror("Sai mật khẩu", "Mật khẩu không đúng!")
