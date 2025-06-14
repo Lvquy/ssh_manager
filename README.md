@@ -9,3 +9,5 @@ pyinstaller --windowed --onefile --add-data "servers.json:."  --icon icon.icns s
 
 B3: 
 In the 'dist' folder, run ssh_manager app
+
+B4: Password -> 'LvQuy'

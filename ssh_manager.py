@@ -17,7 +17,7 @@ APP_DIR = get_app_dir()
 CONFIG_PATH = os.path.join(APP_DIR, "servers.json")
 SERVERS = {}
 CURRENT_SERVER = None
-FIXED_PASSWORD = '1'
+FIXED_PASSWORD = 'LvQuy'
 
 # --------------------- Tải & lưu dữ liệu ---------------------
 def load_servers():
